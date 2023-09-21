@@ -19,28 +19,6 @@
 
 
 
-## 📊 My Github Stats
-
-## <h2 align="center"> Hi I'm Bhagesh Ghuge <img src="https://github.com/OleanjiKingCode/bhageshghuge/blob/master/Hi.gif" width="30" height="30">   </h2>
-
-
-
-
-- 🔭 I’m from India and i'm currently learning  building Application (Centeralised and Decentralised)
-- 🌱 I’m currently learning Javascript and Blockchain development
-- 💬 Ask me about HTML, CSS , JavaScript and Blockchain.
-- 📫 How to reach me: bghuge987@gmail.com
-- ⚡ Fun fact: I spend hours drawing and sketching.
-
-
-
-<h2 align="left">Languages and Tools:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity,react,tailwind,ts,mongodb,vercel)](https://skillicons.dev)
-
-
-
-
 
 ## 📊 My Github Stats
 
